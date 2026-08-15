@@ -95,7 +95,7 @@ def menu():
 if __name__ == "__main__":
     menu()
     
-    #ricardo jose Acuna espinoza
-    #jose Angel Vorja
-    #justin geobani Scott oporta
+    #Ricardo Jose Acuna Espinoza
+    #Jose Angel Borja Medrano
+    #Justin Geovanny Scott Oporta
     
